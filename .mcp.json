@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "unityMCP": {
+      "url": "http://localhost:8080/mcp"
+    },
+    "blender": {
+      "command": "uvx",
+      "args": ["mcp-for-blender", "--host", "192.168.1.68", "--port", "9876"]
+    }
+  }
+}
